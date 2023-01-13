@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.1.0";"";
+"SUPPLIER";"Bourns Electronics";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-25042012-084787";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"500Ω Through Hole Trimmer Potentiometer 0.5W Top Adjust Bourns 3296 Series";"";
+"TraceParts.InstanceId";"10-25042012-084787AG7DA22NAJE4JVX8TE2UNWAGF";"";
+"TraceParts.PartTitle";"500Ω Through Hole Trimmer Potentiometer 0.5W Top Adjust Bourns 3296 Series";"";
+"TraceParts.PartStatusId";"";"";
+"REFERENCE";"3296W-1-501LF";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/5219782P?cm_mmc=en-ds-_-mcad-_-traceparts-_-5219782P'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"rs_stock_number";"5219782P";"";
+"TraceParts.ClassPath";"";"";
